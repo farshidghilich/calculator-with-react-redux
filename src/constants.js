@@ -1,0 +1,3 @@
+export const CALCULATE_RESULT = 'CALCULATE_RESULT'
+export const SAVE_RESULT = 'SAVE_RESULT'
+export const ERROR_RESULT = 'ERROR_RESULT'
